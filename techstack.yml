@@ -1,8 +1,8 @@
 repo_name: emmanu-proton/cb_game
-report_id: d2db1e7362ba5a4196d09cf99485b10f
+report_id: 98d8cd7d1e7979f8fac2d1b7a1bb0778
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T19:57:56+00:00'
+timestamp: '2024-01-09T13:57:47+00:00'
 requested_by: emmanu-bacancy
 provider: github
 branch: master
@@ -12,27 +12,29 @@ tools:
   description: A dynamic, interpreted, open source programming language with a focus
     on simplicity and productivity
   website_url: https://www.ruby-lang.org
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  image_url: https://img.stackshare.io/service/989/ruby.png
+  image_url: https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/
+  detection_source_url: https://github.com/emmanu-proton/cb_game
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/emmanu-proton/cb_game
   detection_source: Repo Metadata
 - name: RSpec
   description: Behaviour Driven Development for Ruby
   website_url: https://rspec.info/
   version: 3.12.0
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
@@ -49,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/emmanu-proton/cb_game/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: emmanu-bacancy
   last_updated_on: 2023-04-26 11:19:31.000000000 Z
