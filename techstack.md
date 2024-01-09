@@ -14,7 +14,7 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 emmanu-proton/cb_game is built on the following main stack:
 
-- <img width='25' height='25' src='https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
@@ -33,7 +33,7 @@ Full tech stack [here](/techstack.md)
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://ucarecdn.com/f37f9014-cba7-466b-a4ce-5cb9584ba991/-/crop/542x541/758,869/-/preview/' alt='Ruby'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
   <br>
   <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
   <br>
