@@ -1,28 +1,41 @@
 repo_name: emmanu-proton/cb_game
-report_id: d2db1e7362ba5a4196d09cf99485b10f
+report_id: e66bee0aa860727e43ab072023acad06
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-12T12:58:31+00:00'
-requested_by: emmanu-bacancy
+timestamp: '2024-01-25T19:07:06+00:00'
+requested_by: emmanu-proton
 provider: github
 branch: master
-detected_tools_count: 4
+detected_tools_count: 5
 tools:
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
     on simplicity and productivity
   website_url: https://www.ruby-lang.org
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  image_url: https://img.stackshare.io/service/989/ruby.png
+  image_url: https://img-dev.stackshare.io/service/989/ruby.png
   detection_source_url: https://github.com/emmanu-proton/cb_game
   detection_source: Repo Metadata
+- name: Brakeman
+  description: A static analysis security vulnerability scanner for Ruby on Rails
+    applications
+  website_url: http://brakemanscanner.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/6577/7b894961369b7c73e2a32f11f845e049_400x400.png
+  detection_source_url: https://github.com/emmanu-proton/cb_game/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: emmanu-proton
+  last_updated_on: 2024-01-23 13:58:35.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -34,7 +47,7 @@ tools:
   website_url: https://rspec.info/
   version: 3.12.0
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
